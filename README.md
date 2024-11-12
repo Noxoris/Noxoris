@@ -1,9 +1,9 @@
 <h1 align="center">I'm Noxoris</h1>
-<h3 align="center">A starting Python developer.</h3>
+<h3 align="center">A junior Python developer.</h3>
 
 - I’m currently working on [Heimdall - habit tracker](https://github.com/Noxoris/Heimdall-habit-tracker)
 
-- In the meantime I am learning **Computer Science and Java**
+- I'm currently studing and self-learning Computer Science.
 
 - Courses finished: **CS50, Python advanced course on Mooc.fi and SC900.**
 
