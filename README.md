@@ -5,7 +5,7 @@
 
 - I'm currently studing and self-learning Computer Science.
 
-- Courses finished: **CCNAv7, Cisco IT fundamentals, CS50, Python advanced course on Mooc.fi, SC900**
+- Courses finished: **CCNAv7, Cisco IT fundamentals, CS50, Python course on Mooc.fi, SC900**
 
 <p align="left">
 </p>
